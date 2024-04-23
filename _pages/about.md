@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# About me
-
 I am an incoming Ph.D student of Information Sciences and Technology at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on LLM Security & Trustworthy AI.
 
 I am currently an undergraduate student at School of Computer Science, [Wuhan University](https://www.whu.edu.cn/).
