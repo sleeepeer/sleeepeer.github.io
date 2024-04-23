@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # About me
 
 I am an incoming Ph.D student of Information Sciences and Technology at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on LLM Security & Trustworthy AI.
