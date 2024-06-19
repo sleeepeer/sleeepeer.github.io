@@ -25,7 +25,7 @@ I am currently an undergraduate student at School of Computer Science, [Wuhan Un
 
 *\* Equal contribution*
 
-* Wei Zou\*, **Runpeng Geng\***, Binghui Wang, and Jinyuan Jia. [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867), arXiv 2024.02
+* Wei Zou\*, **Runpeng Geng\***, Binghui Wang, and Jinyuan Jia. [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867), In *USENIX Security Symposium*, 2025.
 * Yupei Liu, Yuqi Jia, **Runpeng Geng**, Jinyuan Jia, and Neil Zhenqiang Gong. [Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815), In *USENIX Security Symposium*, 2024.
 
 
