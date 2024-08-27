@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on LLM Security & Trustworthy AI.
+I am a first-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy LLM.
 
-I am currently an undergraduate student at School of Computer Science, [Wuhan University](https://www.whu.edu.cn/).
+I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
 
 
 
 ## Current research focuses
 
-* Retrieval Augmented Generation (RAG)
-* Attribution & Explanation of LLMs
+* Retrieval Augmented Generation (RAG) Security
+* Language modeling & optimization methods
 
 
 
