@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy LLM.
 
-I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
+I received my B.Eng in Computer Science from [Wuhan University](https://en.ustc.edu.cn//) in 2024.
 
 
 
