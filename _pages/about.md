@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy LLM.
+I am a second-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on LLM Security, AI agents and Evaluation.
 
 I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
 
 
 
 ## Research Interest
-* Prompt Injection Attacks & Defenses
-* LLM Agent Security
-* Retrieval Augmented Generation (RAG) Security
+My research focuses on developing secure and reliable LLMs and AI agents. I study both the vulnerabilities and defense / alignment of LLMs, with a particular focus on prompt injection. I also work on evaluating LLMs and AI agents under realistic and comprehensive settings.
+
+* **Prompt Injection Attacks and Defenses:** I study how prompt injection affects LLM behavior and design efficient and effective defenses against these attacks.
+* **LLM Alignment and Post-Training:** My research leverages post-training RL to further improve LLM robustness without degrading utility.
+* **Evaluation and Benchmarking:** I build systematic evaluation pipelines to assess LLMs and AI agents.
 
 
 
@@ -33,6 +35,12 @@ I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.
 * **Runpeng Geng**, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/abs/2511.10720).
 * **Runpeng Geng**, Yanting Wang, Ying Chen, Jinyuan Jia. [UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652).
 * Yanting Wang, **Runpeng Geng**, Ying Chen, Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs.](https://arxiv.org/abs/2508.03793)
+* Yanting Wang, **Runpeng Geng**, Jinghui Chen, Minhao Cheng, Jinyuan Jia. TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization.
+
+## Open Source Projects
+
+* [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - 200+ GitHub Stars, lead contributor and co-first author
+* [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) - 300+ GitHub Stars, co-author
 
 
 
