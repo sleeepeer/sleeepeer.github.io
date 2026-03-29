@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on LLM Security, AI agents and Evaluation.
 
-I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
+I received my B.Eng in Artificial Intelligence from [Wuhan University](https://www.whu.edu.cn/) in 2024.
 
 
 
