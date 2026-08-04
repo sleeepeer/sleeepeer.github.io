@@ -14,7 +14,11 @@ I received my B.Eng in Artificial Intelligence from [Wuhan University](https://w
 
 ## Research Interest
 
-My research focuses on developing secure and reliable LLMs and AI agents. I study both the attack / vulnerabilities and defense / robustness / alignment of LLMs, with a particular focus on prompt injection. I also work on evaluating LLMs and AI agents under realistic and comprehensive settings.
+My research focuses on developing secure and reliable LLMs and AI agents. I study both the attack / vulnerabilities and defense / robustness / alignment of LLMs, with a particular focus on prompt injection. I am currently working on red teaming of LLMs and AI agents. I also work on evaluating LLMs and AI agents under realistic and comprehensive settings.
+
+## Experience
+
+* **Research Scientist Intern**, [ByteDance](https://www.bytedance.com/), May 2026 - Present. Working on Doubao Safety and Security.
 
 ## Publications
 
@@ -22,6 +26,7 @@ My research focuses on developing secure and reliable LLMs and AI agents. I stud
 
 * **Runpeng Geng\***, Chenlong Yin\*, Yanting Wang, Ying Chen and Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499), In *ACL*, 2026.
 * Yanting Wang, **Runpeng Geng**, Ying Chen, Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs.](https://arxiv.org/abs/2508.03793), In *IEEE S&P*, 2026
+* Chenlong Yin, **Runpeng Geng**, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), In *COLM*, 2026.
 * Wei Zou\*, **Runpeng Geng\***, Binghui Wang, and Jinyuan Jia. [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867), In *USENIX Security Symposium*, 2025.
 * Yanting Wang\*, Wei Zou\*, **Runpeng Geng**, Binghui Wang, and Jinyuan Jia. [TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202), In *USENIX Security Symposium*, 2025.
 * Yupei Liu, Yuqi Jia, **Runpeng Geng**, Jinyuan Jia, and Neil Zhenqiang Gong. [Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815), In *USENIX Security Symposium*, 2024.
@@ -31,7 +36,6 @@ My research focuses on developing secure and reliable LLMs and AI agents. I stud
 * **Runpeng Geng**, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/abs/2511.10720).
 * **Runpeng Geng**, Yanting Wang, Ying Chen, Jinyuan Jia. [UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652).
 * Yanting Wang, Wei Zou, **Runpeng Geng**, Jinyuan Jia. [AgentWatcher: A Rule-based Prompt Injection Monitor](https://arxiv.org/abs/2604.01194).
-* Chenlong Yin, **Runpeng Geng**, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026).
 * Yanting Wang, **Runpeng Geng**, Jinghui Chen, Minhao Cheng, Jinyuan Jia. TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization.
 
 ## Open Source Projects
