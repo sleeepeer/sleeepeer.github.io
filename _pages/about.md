@@ -24,7 +24,7 @@ My research focuses on developing secure and reliable LLMs and AI agents. I stud
 ## Publications
 
 *\* Equal contribution*
-
+* **Runpeng Geng**, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/abs/2511.10720), In *EMNLP*, 2026.
 * **Runpeng Geng\***, Chenlong Yin\*, Yanting Wang, Ying Chen and Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499), In *ACL*, 2026.
 * Yanting Wang, **Runpeng Geng**, Ying Chen, Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs.](https://arxiv.org/abs/2508.03793), In *IEEE S&P*, 2026
 * Chenlong Yin, **Runpeng Geng**, Yanting Wang, Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), In *COLM*, 2026.
@@ -34,7 +34,6 @@ My research focuses on developing secure and reliable LLMs and AI agents. I stud
 
 ## Preprints
 
-* **Runpeng Geng**, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/abs/2511.10720).
 * **Runpeng Geng**, Yanting Wang, Ying Chen, Jinyuan Jia. [UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652).
 * Yanting Wang, Wei Zou, **Runpeng Geng**, Jinyuan Jia. [AgentWatcher: A Rule-based Prompt Injection Monitor](https://arxiv.org/abs/2604.01194).
 * Yanting Wang, **Runpeng Geng**, Jinghui Chen, Minhao Cheng, Jinyuan Jia. TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization.
