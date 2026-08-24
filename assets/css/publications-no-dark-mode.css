@@ -98,3 +98,13 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 @media print, screen and (max-width: 480px) {
   .publications ol.bibliography li .abbr { flex: none; padding-top: 0; }
 }
+
+/* Venue notes (e.g. "Main Conference", "Oral") rendered after the title
+   instead of as a red tag in the button row. */
+.publications ol.bibliography li .title .pub-note {
+  font-weight: normal;
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+.publications ol.bibliography li .title .pub-note::before { content: " ("; }
+.publications ol.bibliography li .title .pub-note::after  { content: ")"; }

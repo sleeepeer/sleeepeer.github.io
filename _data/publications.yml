@@ -6,6 +6,7 @@ main:
     conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026.
     pdf: https://arxiv.org/abs/2511.10720
     code: https://github.com/sleeepeer/PISanitizer
+    notes: Main Conference
 
   - title: "PIArena: A Platform for Prompt Injection Evaluation"
     authors: <strong>Runpeng Geng*</strong>, Chenlong Yin*, Yanting Wang, Ying Chen, Jinyuan Jia
