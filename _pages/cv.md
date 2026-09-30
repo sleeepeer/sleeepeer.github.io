@@ -19,7 +19,6 @@ Education
 Experience
 ======
 * **Research Scientist Intern**, ByteDance, May 2026 – Present
-  * Working on Doubao Safety and Security
 * **Research Assistant**, Pennsylvania State University, Aug 2024 – Present
 
 Research Experience

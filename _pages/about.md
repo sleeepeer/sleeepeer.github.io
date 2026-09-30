@@ -19,7 +19,6 @@ My research focuses on developing secure and reliable LLMs and AI agents. I stud
 ## Experience
 
 * **Research Scientist Intern**, [ByteDance](https://www.bytedance.com/), May 2026 - Present.
-  * Working on Doubao Safety and Security.
 
 ## Publications
 
