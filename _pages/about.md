@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the Pennsylvania State University, fortunate to be advised by [Prof. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on LLM Security, AI agents and Evaluation.
+I am a Ph.D. candidate at the Pennsylvania State University, fortunate to be advised by [Prof. Jinyuan Jia](https://jinyuan-jia.github.io/), where I learned how to conduct research. I also spent half a year as a Student Researcher at [ByteDance](https://www.bytedance.com/), working with [Dr. Junjie Liang](https://junjieliang672.github.io/), [Dr. Bochuan Cao](https://aaaaaasuka.github.io/) and [Dr. Xun Chen](https://www.linkedin.com/in/xun-chen-8271273/), where I learned how to turn research into real-world systems.
 
 I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
 
 ## Research Interest
 
-My research focuses on developing secure and reliable LLMs and AI agents. I study both the attack / vulnerabilities and defense / robustness / alignment of LLMs, with a particular focus on prompt injection. I am currently working on red teaming of LLMs and AI agents. I also work on evaluating LLMs and AI agents under realistic and comprehensive settings.
+I build automated red-teaming systems for LLMs and AI agents. My current work focuses on self-improving red-teaming agents that refine their own from experience and human feedback, along with the evaluation environments and sandboxes needed to run and assess agents under realistic settings. I also worked on prompt injection and AI Safety/Security, including Open-Prompt-Injection (USENIX Security 2024), PoisonedRAG (USENIX Security 2025), PIArena (ACL 2026), and PISanitizer (EMNLP 2026).
 
 ## Experience
 
-* **Research Scientist Intern**, [ByteDance](https://www.bytedance.com/), May 2026 - Present.
+* **Student Researcher / Research Scientist Intern**, [ByteDance](https://www.bytedance.com/), May 2026 - October 2026, San Jose, CA.
 
 ## Publications
 
