@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Pennsylvania State University, fortunate to be advised by [Prof. Jinyuan Jia](https://jinyuan-jia.github.io/), where I learned how to conduct research. I also spent half a year as a Student Researcher at [ByteDance](https://www.bytedance.com/), working with [Dr. Junjie Liang](https://junjieliang672.github.io/), [Dr. Bochuan Cao](https://aaaaaasuka.github.io/) and [Dr. Xun Chen](https://www.linkedin.com/in/xun-chen-8271273/), where I learned how to turn research into real-world systems.
+I am a Ph.D. candidate at [Penn State](https://www.psu.edu/), fortunate to be advised by [Prof. Jinyuan Jia](https://jinyuan-jia.github.io/), where I learned how to conduct research. I also spent half a year as a Student Researcher at [ByteDance](https://www.bytedance.com/), working with [Dr. Junjie Liang](https://junjieliang672.github.io/), [Dr. Bochuan Cao](https://aaaaaasuka.github.io/) and [Dr. Xun Chen](https://www.linkedin.com/in/xun-chen-8271273/), where I learned how to turn research into real-world systems.
 
 I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
 
